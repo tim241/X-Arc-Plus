@@ -3762,7 +3762,7 @@ NautilusWindow GtkPlacesSidebar.sidebar {
     color: #5c616c; }
     GtkFileChooserDialog GtkPlacesSidebar.sidebar .list-row.activatable .sidebar-icon,
     NautilusWindow GtkPlacesSidebar.sidebar .list-row.activatable .sidebar-icon {
-      color: rgba(92,97,108. 0.6)/**(186, 195, 207, 0.6)**/; }
+      color: rgba(92,97,108, 0.6)/**(186, 195, 207, 0.6)**/; }
     GtkFileChooserDialog GtkPlacesSidebar.sidebar .list-row.activatable:hover, GtkFileChooserDialog GtkPlacesSidebar.sidebar .has-open-popup,
     NautilusWindow GtkPlacesSidebar.sidebar .list-row.activatable:hover,
     NautilusWindow GtkPlacesSidebar.sidebar .has-open-popup {
