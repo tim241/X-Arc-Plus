@@ -1,14 +1,17 @@
-# The Official OSX-Arc Collection
+<img src="https://github.com/LinxGem33/Neon/blob/master/artwork/ark-svg.png?raw=true" alt="Logo" align="left" /> 
 
-| Official Logo  |Introduction  |
-| ------------- | :------------- |
-| ![](https://cn.pling.com/cache/280x171/img/a/f/8/8/11ff91ed530d48d38775e90a231a9aef420d.png)| OSX-Arc theme collection is a flat theme collection based on arc with transparent elements OSX-Arc Collection is available in three variants, it also supports  GTK 3, GTK 2 and Gnome-Shell which integrates with GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.  |
+# OSX-Arc Collection
+
+### Introduction
+
+OSX-Arc theme collection is a flat theme collection based on arc with transparent elements OSX-Arc Collection is available in three variants, it also supports  GTK 3, GTK 2 and Gnome-Shell which integrates with GTK 3 and GTK 2 based desktop environments like Gnome, Unity, ~~Budgie~~, Pantheon, XFCE, Mate, etc.
 
 ##
+![](https://github.com/LinxGem33/Arc-Menu/blob/master/screenshots/osxp.png?raw=true)
 
-|OSX Arc White|OSX Arc Plus|OSX Arc Darker|OSX Arc Shadow|
-|:------:|:-----:|:-----:|:-----:|
-|![](https://cn.pling.com/img/4/7/5/0/8c43c7300506520877db93f40e16f68005e8.png)|![](https://github.com/LinxGem33/Arc-Menu/blob/master/screenshots/osxp.png?raw=true)|![](https://cn.pling.com/img/b/c/1/9/2663fe7724cdbe48087bf8ffb61ef33d9270.png)|![](https://cn.pling.com/img/4/e/e/e/7aa33dbf66b684e7ca882318e6b400acd1b5.png)|
+|OSX Arc White|OSX Arc Darker|OSX Arc Shadow|
+|:------:|:-----:|:-----:|
+|![](https://cn.pling.com/img/4/7/5/0/8c43c7300506520877db93f40e16f68005e8.png)|![](https://cn.pling.com/img/b/c/1/9/2663fe7724cdbe48087bf8ffb61ef33d9270.png)|![](https://cn.pling.com/img/4/e/e/e/7aa33dbf66b684e7ca882318e6b400acd1b5.png)|
 |Click image to enlarge|Click image to enlarge|Click image to enlarge|Click image to enlarge|
 
 ## 
