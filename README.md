@@ -1,4 +1,4 @@
-![](https://github.com/LinxGem33/Neon/blob/master/artwork/osx-arc-banner-xmas.png?raw=true)
+![](https://github.com/LinxGem33/Neon/blob/master/artwork/osx-arc-wide-banner1.png?raw=true)
 
 ##
 ![](https://github.com/LinxGem33/Arc-Menu/blob/master/screenshots/osxp.png?raw=true)
